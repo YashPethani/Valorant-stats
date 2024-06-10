@@ -124,8 +124,8 @@ CREATE TABLE `users` (
 --
 
 INSERT INTO `users` (`fname`, `lname`, `username`, `email`, `password`) VALUES
-('Jay', 'Rohit', 'Jordan', 'jayrohit570@gmail.com', '1234'),
-('Jordan', 'Rohit', 'NoobJ0RDAN', 'jordan31052002@gmail.com', '12345');
+('Yash', 'Pethani', 'BUGS', 'pethaniyash11@gmail.com', '1234'),
+('SK', 'Roshi', 'NoobBUGS', 'bugs110703@gmail.com', '12345');
 
 --
 -- Indexes for dumped tables
